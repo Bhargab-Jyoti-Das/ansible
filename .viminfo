@@ -11,8 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
+|2,0,1617228663,,"q"
 :wq
-|2,0,1617228008,,"wq"
+|2,0,1617228596,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,10 +27,32 @@
 # Registers:
 
 # File marks:
-'0  13  84  ~/ansible.configuration
-|4,48,13,84,1617228008,"~/ansible.configuration"
+'0  3  7  ~/ansible.configuration
+|4,48,3,7,1617228663,"~/ansible.configuration"
+'1  1  7  ~/ansible.configuration
+|4,49,1,7,1617228596,"~/ansible.configuration"
+'2  1  7  ~/ansible.configuration
+|4,50,1,7,1617228596,"~/ansible.configuration"
+'3  13  84  ~/ansible.configuration
+|4,51,13,84,1617228008,"~/ansible.configuration"
+'4  13  84  ~/ansible.configuration
+|4,52,13,84,1617228008,"~/ansible.configuration"
+'5  13  84  ~/ansible.configuration
+|4,53,13,84,1617228008,"~/ansible.configuration"
+'6  13  84  ~/ansible.configuration
+|4,54,13,84,1617228008,"~/ansible.configuration"
 
 # Jumplist (newest first):
+-'  3  7  ~/ansible.configuration
+|4,39,3,7,1617228663,"~/ansible.configuration"
+-'  1  7  ~/ansible.configuration
+|4,39,1,7,1617228652,"~/ansible.configuration"
+-'  1  7  ~/ansible.configuration
+|4,39,1,7,1617228596,"~/ansible.configuration"
+-'  13  84  ~/ansible.configuration
+|4,39,13,84,1617228565,"~/ansible.configuration"
+-'  13  84  ~/ansible.configuration
+|4,39,13,84,1617228565,"~/ansible.configuration"
 -'  13  84  ~/ansible.configuration
 |4,39,13,84,1617228008,"~/ansible.configuration"
 -'  1  0  ~/ansible.configuration
@@ -37,10 +61,10 @@
 # History of marks within files (newest to oldest):
 
 > ~/ansible.configuration
-	*	1617228004	0
-	"	13	84
-	^	13	85
-	.	13	84
+	*	1617228660	0
+	"	3	7
+	^	1	8
+	.	3	25
 	+	1	8
 	+	15	4
 	+	2	0
@@ -66,3 +90,4 @@
 	+	48	89
 	+	30	83
 	+	13	84
+	+	3	25
